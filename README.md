@@ -18,15 +18,15 @@ My favourite programming language😻.
 >>  * Covers both the topics of Mutable and immutable objects.
 
 # DS Covered
- 1] String.  
- 2] Boolean.  
- 3] List.  
- 4] Tuple.   
- 5] Set.  
- 6] Dictionary.  
- 7] Classes and Objects.  
- 8] Regex.   
- 9] File Handling.
+ 1. String.  
+ 2. Boolean.  
+ 3. List.  
+ 4. Tuple.   
+ 5. Set.  
+ 6. Dictionary.  
+ 7. Classes and Objects.  
+ 8. Regex.   
+ 9. File Handling.
 -----------------------------------------------------------------------------------------------------------------------
 
 ## PingPong
@@ -68,13 +68,13 @@ Link: https://www.youtube.com/playlist?list=PLe-rtwou_fp34h_DSIRWmo4cmNpmjh4-N
 I want to keep track of my progress 📈 and also save my files for my future references.✅
 
 ## How to use?😄
-To run the programs, just use the `filename.py` command.🤝
+    To run the programs, just use the `filename.py` command.🤝
 -----------------------------------------------------------------------------------------------------------------------
 
 # 🚀HackerRank🚀🚀
 
 All my solved hacker rank question are present here.\
-This is to keep track of my work📚. Will update repo as I solve them📈.
+>> This is to keep track of my work📚. Will update repo as I solve them📈.
 -----------------------------------------------------------------------------------------------------------------------
 
 # LeetCode🔥🔥
