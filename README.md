@@ -2,13 +2,13 @@
 -----------------------------------------------------------------------------------------------------------------------
 My favourite programming language😻.
 
-** Here you can find a curated list of python projects. Including data structures, algorithm and much more.
+* * Here you can find a curated list of python projects. Including data structures, algorithm and much more.
 
 ## Algorithms
 
-* This folder contains:
-1] All Sorting Algoithms. 
-2] Coursera Algorithm toolbox.
+* This folder contains:\
+1] All Sorting Algoithms. \
+2] Coursera Algorithm toolbox.\
 -----------------------------------------------------------------------------------------------------------------------
 
 ## Data Structure
