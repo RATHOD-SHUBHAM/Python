@@ -1,0 +1,17 @@
+<!-- step 18 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Delete</title>
+</head>
+<body>
+    <p> Do you wanna delete this "{{ item }}" ?</p>
+    <a href="{% url 'list' %}">Cancel</a>
+
+    <form method="POST" action=""> <!-- Action is going to be blank because we are going to send it to same url  -->
+        {% csrf_token %}
+        <input type="submit" name="Confirm">
+    </form>
+</body>
+</html>
