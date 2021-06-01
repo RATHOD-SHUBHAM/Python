@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------------------------------
 My favourite programming language😻.
 
-* * Here you can find a curated list of python projects. Including data structures, algorithm and much more.
+  * Here you can find a curated list of python projects. Including data structures, algorithm and much more.
 
 ## Algorithms
 
