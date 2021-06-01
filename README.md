@@ -18,16 +18,15 @@ My favourite programming language😻.
 >>  * Covers both the topics of Mutable and immutable objects.
 
 # DS Covered
-
-1] String.  
-2] Boolean.  
-3] List.  
-4] Tuple.   
-5] Set.  
-6] Dictionary.  
-7] Classes and Objects.  
-8] Regex.   
-9] File Handling.
+ 1] String.  
+ 2] Boolean.  
+ 3] List.  
+ 4] Tuple.   
+ 5] Set.  
+ 6] Dictionary.  
+ 7] Classes and Objects.  
+ 8] Regex.   
+ 9] File Handling.
 -----------------------------------------------------------------------------------------------------------------------
 
 ## PingPong
@@ -80,11 +79,11 @@ This is to keep track of my work📚. Will update repo as I solve them📈.
 
 # LeetCode🔥🔥
 
-Leetcode questions includes:
+Leetcode questions includes:\
 1] Arrays.\
 2] ArrayString.\
 3] Binary.\
 4] HashMap.\
 5] Top Interview Questions.\
 6] Trees.\
-7] Random.\
+7] Random.
