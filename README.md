@@ -8,7 +8,7 @@ My favourite programming language😻.
 
 * This folder contains:\
 1] All Sorting Algoithms. \
-2] Coursera Algorithm toolbox.\
+2] Coursera Algorithm toolbox.
 -----------------------------------------------------------------------------------------------------------------------
 
 ### Data Structure
@@ -122,8 +122,8 @@ All Django code are available here.
   
   ## Docker🐬🔥🐬🔥
 
-Docker Based Application:\
-   1] IMBD Movie Recommendation.\
-   2] Web App using Fast API.\
+  Docker Based Application:\
+      1] IMBD Movie Recommendation.\
+      2] Web App using Fast API.
 
 -----------------------------------------------------------------------------------------------------------------------
