@@ -119,3 +119,11 @@ All Django code are available here.
   I wanted to experience how data from one View is sent to another.
   
   -----------------------------------------------------------------------------------------------------------------------
+  
+  ## Docker🐬🔥🐬🔥
+
+Docker Based Application:\
+   1] IMBD Movie Recommendation.\
+   2] Web App using Fast API.\
+
+-----------------------------------------------------------------------------------------------------------------------
