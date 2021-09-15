@@ -1,4 +1,4 @@
-# Leet Code.
+# Leet Code.👨🏻‍💻
 
 </br>
 
@@ -7,12 +7,18 @@
   </br>
 </p>
 
-## About
+## About 
 
-I have made a decision to solve problem regularly based on various topics.
+This repo is for my reference purpose and to keep track of my progress. 💪🏻
 
 ## Topics
 - Array
+- ArrayString.\
+- Binary.\
+- HashMap.\
+- Top Interview Questions.\
+- Trees.\
+- Random.
 
 - and more yet to come everyday...
 
