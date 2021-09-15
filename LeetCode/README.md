@@ -20,4 +20,9 @@ I have made a decision to solve problem regularly based on various topics.
 ### 1. [Arrays](https://leetcode.com/problemset/algorithms/)
 <details><summary>Leet code problems with solutions</summary>
 <p>
-
+### 2] ArrayString.\
+### 3] Binary.\
+### 4] HashMap.\
+### 5] Top Interview Questions.\
+### 6] Trees.\
+### 7] Random.
