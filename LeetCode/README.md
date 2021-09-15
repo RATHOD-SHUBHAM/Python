@@ -26,7 +26,11 @@ This repo is for my reference purpose and to keep track of my progress. 💪🏻
 ### 1. [Arrays](https://leetcode.com/problemset/algorithms/)
 <details><summary>Leet code problems with solutions</summary>
 <p>
-### 2] ArrayString.\
+
+### 2. [ArrayString](https://leetcode.com/problemset/algorithms/)
+<details><summary>Leet code problems with solutions</summary>
+<p>
+
 ### 3] Binary.\
 ### 4] HashMap.\
 ### 5] Top Interview Questions.\
