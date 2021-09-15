@@ -13,11 +13,11 @@ This repo is for my reference purpose and to keep track of my progress. 💪🏻
 
 ## Topics
 - Array
-- ArrayString.\
-- Binary.\
-- HashMap.\
-- Top Interview Questions.\
-- Trees.\
+- ArrayString.
+- Binary.
+- HashMap.
+- Top Interview Questions.
+- Trees.
 - Vadi Question Bank.
 
 - and more yet to come everyday...
