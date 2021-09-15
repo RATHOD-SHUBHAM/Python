@@ -24,7 +24,7 @@ This repo is for my reference purpose and to keep track of my progress. 💪🏻
 
 
 ### 1. [Arrays](https://github.com/RATHOD-SHUBHAM/Python-Projects/tree/master/LeetCode/Arrays)
-<details><summary>Leet code problems with solutions</summary>
+<details><summary>Leet code problems with solutions</summary></details>
 
 ### 2. [ArrayString](https://github.com/RATHOD-SHUBHAM/Python-Projects/tree/master/LeetCode/ArraysString)
 <details><summary>Leet code problems with solutions</summary>
