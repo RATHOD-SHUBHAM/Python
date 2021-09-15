@@ -1,4 +1,3 @@
-# LC
 # Leet Code.
 
 </br>
