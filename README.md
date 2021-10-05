@@ -61,40 +61,6 @@ Link: https://www.youtube.com/playlist?list=PLe-rtwou_fp34h_DSIRWmo4cmNpmjh4-N
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## 🚀🚀 CTCI 🚀🚀
-### Python Solutions to 🔥 *Cracking the Coding Interview, 6th Edition* 🔥
-
-🔥 These are **Python** solutions for the book 💥 Cracking the Coding Interview, 6th Edition by *Gayle Laakmann McDowell*.💥
-
-
-### Why this folder?🤔
-I want to keep track of my progress 📈 and also save my files for my future references.✅
-
-### How to use?😄
-    To run the programs, just use the `filename.py` command.🤝
-    
------------------------------------------------------------------------------------------------------------------------
-
-## 🚀HackerRank🚀🚀
-
-All my solved hacker rank question are present here.\
->> This is to keep track of my work📚. Will update repo as I solve them📈.
-
------------------------------------------------------------------------------------------------------------------------
-
-## LeetCode🔥🔥
-
-Leetcode questions includes:\
-1] Arrays.\
-2] ArrayString.\
-3] Binary.\
-4] HashMap.\
-5] Top Interview Questions.\
-6] Trees.\
-7] Random.
-
------------------------------------------------------------------------------------------------------------------------
-
 ## Django
 All Django code are available here.
 
