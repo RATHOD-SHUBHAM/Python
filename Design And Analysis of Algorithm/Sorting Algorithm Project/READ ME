@@ -1,0 +1,13 @@
+---------------- READ ME ---------------
+
+Required Python Notebook  - Either jupyter or ANACONDA
+
+
+STEPS FOR EXECUTION :
+
+1] open the .ipynb file in python note book and execute each cell to run the program.
+
+READING INPUT AND OUTPUT : 
+1] Code will generate a input file in the same directory as the code
+2] code will generate a sorted output file inn the same ditrectory as that of the code.
+3] output graph is also generated in a .png format in the file
