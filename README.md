@@ -93,9 +93,11 @@ All Django code are available here.
       2] Web App using Fast API.
 
 -----------------------------------------------------------------------------------------------------------------------
-## Convert Un-Scanned pdf to Scanned pdf🔥�🔥
+## Convert Un-Scanned pdf to Scanned pdf🔥🔥
  The majority of the time at work, an unscanned pdf document is intrinsically inaccessible since the content of the pdf document is not searchable text.
+ 
  Here I built a software that converts unscanned PDF files to scanned PDF files.
+ 
  As a result, manual efforts are avoided, and time is saved for the organization.
  
  -----------------------------------------------------------------------------------------------------------------------
