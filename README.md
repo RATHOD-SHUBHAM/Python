@@ -103,3 +103,13 @@ All Django code are available here.
  
  -----------------------------------------------------------------------------------------------------------------------
 
+## Word Cloud or Tag Cloud
+
+Here I have created wordCloud with python. This is quite handy for exploring text data and making report more lively.
+
+* Creating basic wordcloud from one to several text documents.
+* Adjusting color, size and number of text inside wordcloud
+* Mask wordcloud into any shape of our choice
+* Mask your wordcloud into any color pattern of your choice
+
+-----------------------------------------------------------------------------------------------------------------------
