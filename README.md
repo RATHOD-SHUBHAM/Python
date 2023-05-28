@@ -63,7 +63,14 @@ All Django code are available here.
  
  As a result, manual efforts are avoided, and time is saved for the organization.
  
- -----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+## Docker Application
+Docker is a containerization tool used for spinning up isolated, reproducible application environments. 
+
+Project:
+  1. Movie Recommendation IMDB.
+  2. Web Application Using FastApi.
+-----------------------------------------------------------------------------------------------------------------------
 
 ## Word Cloud or Tag Cloud
 
