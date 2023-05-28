@@ -1,50 +1,21 @@
-# Python 3 😎
+# Python 3
 -----------------------------------------------------------------------------------------------------------------------
-My favourite programming language😻.
+Cheers favourite programming language.
 
   * Here you can find a curated list of python projects. Including data structures, algorithm and much more.
   * Check out Github Cheat Sheet pdf.
 
-### Algorithms
+### ALL_Algorithms
 
-* This folder contains:\
-1] All Sorting Algoithms. \
-2] Coursera Algorithm toolbox.
+This folder contains list of all the algorithms:
+ 1. Merkle Tree: In cryptography and computer science, a hash tree or Merkle tree is a tree in which every "leaf" (node) is labelled with the cryptographic hash of a data block, and every node that is not a leaf (called a branch, inner node, or inode) is labelled with the cryptographic hash of the labels of its child nodes.
+
 -----------------------------------------------------------------------------------------------------------------------
 
-### Data Structure
-
-* Assignments related to Python Programming Language is recorded here.
->>  * This assignments covers wide range of topics. ie Datastructure in Python Language.  
->>  * Covers both the topics of Mutable and immutable objects.
-
-## DS Covered
- 1. String.  
- 2. Boolean.  
- 3. List.  
- 4. Tuple.   
- 5. Set.  
- 6. Dictionary.  
- 7. Classes and Objects.  
- 8. Regex.   
- 9. File Handling.
+### University Assignments.
+ * The disastrous code I wrote in Uni.
  
------------------------------------------------------------------------------------------------------------------------
 
-### PingPong
-
-* Classic Ping Pong Game using Turtle Module.
-
-### todo : steps for pong game
- 1. create a screen window.
- 2. update the window.
- 3. Create paddle A and B and also create a ball.
- 4. Paddle movement.
- 5. making the ball move diagonally.
- 6. making the ball bounce from the border.
- 7. making ball bounce once it hits the paddle.
- 8. Writing Score on Window.
- 
  -----------------------------------------------------------------------------------------------------------------------
  
 ## Tkinter_Python
@@ -65,8 +36,6 @@ Link: https://www.youtube.com/playlist?list=PLe-rtwou_fp34h_DSIRWmo4cmNpmjh4-N
 ## Django
 All Django code are available here.
 
-### My projects:
-
 #### 1] Whatsapp:
 
   Have you ever been in a situation where you want to text/send document to someone on whatsapp but dont want to save their number into your contact?????
@@ -85,13 +54,6 @@ All Django code are available here.
   This was just my eagerness to explore how django forms works. 
   I wanted to experience how data from one View is sent to another.
   
-  -----------------------------------------------------------------------------------------------------------------------
-  
-  ## Docker🐬🔥🐬🔥
-
-  Docker Based Application:\
-      1] IMBD Movie Recommendation.\
-      2] Web App using Fast API.
 
 -----------------------------------------------------------------------------------------------------------------------
 ## Convert Un-Scanned pdf to Scanned pdf🔥🔥
