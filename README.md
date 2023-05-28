@@ -1,6 +1,6 @@
 # Python 3
 -----------------------------------------------------------------------------------------------------------------------
-Cheers favourite programming language.
+Cheers favourite programming language 🥂.
 
   * Here you can find a curated list of python projects. Including data structures, algorithm and much more.
   * Check out Github Cheat Sheet pdf.
