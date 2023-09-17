@@ -13,3 +13,6 @@ OOPs Concepts in Python
   * Encapsulation
   * Inheritance
   * Data Abstraction
+
+
+![Types-of-OOPS-2](https://github.com/RATHOD-SHUBHAM/Python-Projects/assets/58945964/3c60bdd2-5cb7-450a-b450-dcf2dada00ed)
