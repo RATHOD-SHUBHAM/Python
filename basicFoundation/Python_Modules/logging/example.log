@@ -1,0 +1,13 @@
+2023-09-14 19:40:21,456:WARNING:Watch out!
+2023-09-14 19:40:21,456:INFO:I told you so
+2023-09-14 19:40:21,456:DEBUG:Add: 20 + 10 = 30
+2023-09-14 19:40:21,456:DEBUG:Sub: 20 - 10 = 10
+2023-09-14 19:40:21,456:DEBUG:Mul: 20 * 10 = 200
+2023-09-14 19:40:21,456:DEBUG:Div: 20 / 10 = 2.0
+
+INFO:Created Employee: Shubham Shankar - Shubham.Shankar@email.com
+INFO:Created Employee: Shubham Rathod - Shubham.Rathod@email.com
+INFO:Created Employee: Gibbo Rathod - Gibbo.Rathod@email.com
+INFO:Created Employee: Shubham Shankar - Shubham.Shankar@email.com
+INFO:Created Employee: Shubham Rathod - Shubham.Rathod@email.com
+INFO:Created Employee: Gibbo Rathod - Gibbo.Rathod@email.com

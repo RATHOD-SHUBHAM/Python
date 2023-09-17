@@ -1,0 +1,14 @@
+2023-09-15 06:31:54,127:DEBUG:Add: 20 + 10 = 30
+2023-09-15 06:31:54,127:DEBUG:Sub: 20 - 10 = 10
+2023-09-15 06:31:54,127:DEBUG:Mul: 20 * 10 = 200
+2023-09-15 06:31:54,128:DEBUG:Div: 20 / 10 = 2.0
+2023-09-15 06:37:47,538:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "/Users/shubhamrathod/PycharmProjects/basicFoundation/Python_Modules/logging/python_advance_logging_2.py", line 43, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2023-09-15 06:38:05,753:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "/Users/shubhamrathod/PycharmProjects/basicFoundation/Python_Modules/logging/python_advance_logging_2.py", line 43, in divide
+    result = x / y
+ZeroDivisionError: division by zero

@@ -1,0 +1,12 @@
+Handy functions of the JSON module
+
+1. json.load( fileObject ):
+    Takes the opened file object and deserializes it to a python dictionary (along with its inner components into their respective python objects)
+
+2. json.loads( string ):
+    Takes the contents of a string file as a python string object and converts it to a python dictionary.
+
+3. json.dump(dictionary, fileObject):
+    Takes the python dictionary and writes its contents into the specified file object as json objects (serialization).
+
+
